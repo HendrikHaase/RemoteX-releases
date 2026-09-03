@@ -1,7 +1,7 @@
 {
-  "version": "0.1.63",
-  "pub_date": "2026-08-26T20:53:33Z",
+  "version": "0.1.65",
+  "pub_date": "2026-09-03T12:14:31Z",
   "platforms": {
-    "windows-x86_64": { "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTTEk0R3NZN1Q4OVhZQk9jRHZwWG5rc3RKK1RMWkJ1THdhN0NPa1hlNzFraTlBTjJjdWRiemdsaVRyMFducFV2RWZTTTVDcXY5emdXaURkbjVPd25qOVorK0pxQ0RQcWc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3Nzc3Mjg4CWZpbGU6UmVtb3RlWF8wLjEuNjNfeDY0LXNldHVwLmV4ZQpjNVpSVWFTT1Rtb1lrUy9ndy9nSVZ1cVd3L3phYW4xV3E1STk4dkxRcm5RMXNvckx6cXU0NjRkckpsaFZiTWlWUkV4dFY1Z2hZUjRrdmNTb0VEL1FBdz09Cg==", "url": "https://github.com/HendrikHaase/RemoteX-releases/releases/download/v0.1.63/RemoteX_0.1.63_x64-setup.exe" }
+    "windows-x86_64": { "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTTEk0R3NZN1Q4OWFlcWhGaG4xNUk2NmFzRlZqVVZobFA0YndvWUpXc2pSUnZGTHphYzRQUlNrRXB0SG1jNjYyUFRranFKL1J6dngxWWxVcExyWTlRUDY2WVA4MDNIWlFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4NDM3NDEzCWZpbGU6UmVtb3RlWF8wLjEuNjVfeDY0LXNldHVwLmV4ZQoxOXVVOGZhelh4cVpSQkxUeVRNdFh2azhIYlJBMHUzd2NKLzVLSWRUcm1YdDcvc2ZXakNkSFpGQTBRSGhWOTgwb29pbXk5cDloN1JNaTNzV1cxTEpBUT09Cg==", "url": "https://github.com/HendrikHaase/RemoteX-releases/releases/download/v0.1.65/RemoteX_0.1.65_x64-setup.exe" }
   }
 }
