@@ -1,7 +1,7 @@
 {
-  "version": "0.1.64",
-  "pub_date": "2026-08-26T22:30:45Z",
+  "version": "0.1.68",
+  "pub_date": "2026-10-05T22:53:41Z",
   "platforms": {
-    "linux-x86_64": { "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTTEk0R3NZN1Q4OVhXaFFaUXZycXNpV08zalo4SHBrUDZHTS9EQzc1L09PeU5NOHhERjlDdTVpZXdxK3NKZG4wSnAwRk1EcDUvSEV3dkxKN1hMTnhPVFBmajdYZjFWdnc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg3NzgzNDAxCWZpbGU6UmVtb3RlWF8wLjEuNjRfYW1kNjQuQXBwSW1hZ2UKRE9OY2NVYXdneUdDN0ZJNk5HUVJtM1ZuQXVERmI5MjdTY0FTTzFVTkdmUVEvRVNGbzN5TlBwektBb256ejdIMnZrQjNybHllVHl1VTQ3NExoSVpaQ0E9PQo=", "url": "https://github.com/HendrikHaase/RemoteX-releases/releases/download/v0.1.64-linux/RemoteX_0.1.64_amd64.AppImage" }
+    "linux-x86_64": { "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTTEk0R3NZN1Q4OWZhMDgrRitJcFZIT3MwbndEcVJuVWh5N1p4cXpIWmpBOWpNSVBlR1hMcXJSKzV4VFpmQkFvemN6dWlzQmhTWGkrU0o1cGNiaU44Rm9TQk5hVDB4NEFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxMjQwNzY4CWZpbGU6UmVtb3RlWF8wLjEuNjhfYW1kNjQuQXBwSW1hZ2UKZ21lbkZpTjdwdk9SWFRCcnE4aElWMjdpNnFPNWZUUVI4WS9qeWdEM0ZmVUFxbUFvZkFTSkNjVkdNWWpuSjFMVTZma3BQNXdvZVB1NU9mbzhQMzNEQWc9PQo=", "url": "https://github.com/HendrikHaase/RemoteX-releases/releases/download/v0.1.68-linux/RemoteX_0.1.68_amd64.AppImage" }
   }
 }
